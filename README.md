@@ -17,7 +17,7 @@
 3. Compile and run the C++ code.
 
 ## Progress Tracking
-
+> Website Assignments
 * [x] Week 01
 * [ ] Week 02
 * [ ] Week 03
@@ -27,6 +27,11 @@
 * [ ] Week 07
 * [ ] Week 08
 * [ ] Week 09
+
+> Videos Assignments
+* [x] Video 14 Assignment
+
+---
 * [ ] Course Completed!
 
 
