@@ -19,7 +19,7 @@
 ## Progress Tracking
 > Website Assignments
 * [x] Week 01
-* [ ] Week 02
+* [x] Week 02
 * [ ] Week 03
 * [ ] Week 04
 * [ ] Week 05
