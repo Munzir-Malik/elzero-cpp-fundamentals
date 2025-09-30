@@ -31,8 +31,7 @@
 > Videos Assignments
 * [x] Video 14 Assignment
 * [x] Video 17 Assignment
-* [x] Video 20 Assignments
->> Contains two assignments [App01, App02]
+* [x] Video 20 Assignments -> `Contains [App01, App02]`.
 
 ---
 * [ ] Course Completed!
