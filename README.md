@@ -20,7 +20,7 @@
 > Website Assignments
 * [x] Week 01
 * [x] Week 02
-* [ ] Week 03
+* [x] Week 03
 * [ ] Week 04
 * [ ] Week 05
 * [ ] Week 06
@@ -30,6 +30,9 @@
 
 > Videos Assignments
 * [x] Video 14 Assignment
+* [x] Video 17 Assignment
+* [x] Video 20 Assignments
+>> Contains two assignments [App01, App02]
 
 ---
 * [ ] Course Completed!
