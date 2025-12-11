@@ -24,7 +24,7 @@
 * [x] Week 04
 * [x] Week 05
 * [x] Week 06
-* [ ] Week 07
+* [x] Week 07
 * [ ] Week 08
 * [ ] Week 09
 
