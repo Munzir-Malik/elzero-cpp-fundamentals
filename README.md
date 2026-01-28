@@ -25,7 +25,7 @@
 * [x] Week 05
 * [x] Week 06
 * [x] Week 07
-* [ ] Week 08
+* [x] Week 08
 * [ ] Week 09
 
 > Videos Assignments
